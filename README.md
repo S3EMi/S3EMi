@@ -1,4 +1,3 @@
-[@S3Emi]
 Learning Python, professional Ctrl+C, Ctrl+V user.
 I don't check often, but you can contact me via emai; matheusbarros1st@gmail.com
 
