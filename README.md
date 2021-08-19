@@ -1,6 +1,6 @@
-@S3Emi;
+[@S3Emi]
 Learning Python, professional Ctrl+C, Ctrl+V user.
-I don't check often, but you can contact me via email, matheusbarros1st@gmail.com
+I don't check often, but you can contact me via emai; matheusbarros1st@gmail.com
 
 <!---
 S3EMi/S3EMi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
